@@ -18,5 +18,12 @@
 - 双击下方列表某一单元，进行修改，修改完按enter对内容进行修改
 
 
+<br>
+打开效果：
+<br>
+
+![展示图](https://raw.githubusercontent.com/xingruxuewji/ModifyHOSTSFile/main/images/1.png)
+
+
 
 
